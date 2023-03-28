@@ -1,0 +1,585 @@
+Q:Cobre Panama achieved record copper production of 331kt for the full year, 125kt more than 2020. Despite facing COVID-19 preventative restrictions for over three quarters of the year, Cobre Panama’s performance was strong, exceeding initial 2021 guidance announced in January 2021 and delivering its first full year of uninterrupted production since announcing commercial production on September 1, 2019. 
+A:Title:Cobre Panama Copper Production (Tonnes);X-Axis:350,438 Tonnes;Y-Axis: 2022
+
+Q:Caixin/S&P's composite PMI, which includes both manufacturing and services activity, rose to 54.2 in February from 51.1 a month earlier, marking the quickest expansion since June. 
+A:Title:China Composite PMI ;X-Axis:51.1;Y-Axis: Jan-23
+
+Q:Caixin/S&P's composite PMI, which includes both manufacturing and services activity, rose to 54.2 in February from 51.1 a month earlier, marking the quickest expansion since June. 
+A:Title:China Composite PMI ;X-Axis:54.2;Y-Axis: Feb-23
+
+Q:The Caixin/S&P Global services purchasing managers' index (PMI) rose to 55.0 in February from 52.9 in January, a back-to-back monthly increase in activity after the government abruptly dismantled anti-virus measures in December 
+A:Title:China Services Purchasing Managers Index (PMI);X-Axis:55;Y-Axis: Feb-23
+
+Q:The Caixin/S&P Global services purchasing managers' index (PMI) rose to 55.0 in February from 52.9 in January, a back-to-back monthly increase in activity after the government abruptly dismantled anti-virus measures in December 
+A:Title:China Services Purchasing Managers Index (PMI);X-Axis:52.9;Y-Axis: Jan-23
+
+Q:Chile produced 435,939 mt of copper in January, up 1.3% from the same month of 2021, government data showed Feb. 28. 
+A:Title:Chile Copper Production;X-Axis:435,939 Tonnes;Y-Axis: Jan-23
+
+Q:Chile Molybdenum production rose 15% on the year to 3,772 mt. The metal is a key by-product in many copper mines in Chile.Gold production fell 13% to 2,111 kilograms while silver production fell 14% to 82,284 kg.
+A:Title:Chile Silver Production;X-Axis:82,284 Kg;Y-Axis: Jan-23
+
+Q:Chile Molybdenum production rose 15% on the year to 3,772 mt. The metal is a key by-product in many copper mines in Chile.Gold production fell 13% to 2,111 kilograms while silver production fell 14% to 82,284 kg. 
+A:Title:Chile Gold Production;X-Axis:2,111 Kilograms;Y-Axis: Jan-23
+
+Q:Chile Molybdenum production rose 15% on the year to 3,772 mt. The metal is a key by-product in many copper mines in Chile.Gold production fell 13% to 2,111 kilograms while silver production fell 14% to 82,284 kg. 
+A:Title:Chile Molybdenum Production;X-Axis:3,772 Tonnes;Y-Axis: Jan-23
+
+Q:Japan imported 1.9 million tonnes of LNG from Oman in 2021, 2.6% of its total LNG imports.
+A:Title:Japan LNG Imports From Oman;X-Axis:1.9 Million Tonnes;Y-Axis: 2021
+
+Q:Contemporary Amperex Technology (CATL), based in east China’s Fujian province, retained its position as the world’s largest EV battery producer, according to Seoul-based SNE Research.CATL installed 165.7 gigawatt hours (GWh) of battery cells from January to November in 2022, 101.8 per cent more than the same period a year earlier, according to the research and consulting services provider. The company’s global market share rose from 32.8 per cent at the end of 2021 to 37.1 per cent.
+A:Title:CATL EV Battery Installed;X-Axis:165.7 GWh;Y-Axis: Jan - Nov 2022
+
+Q:Sales of pure electric and plug-in hybrid cars in China are likely to have topped 6.4 million units in 2022, more than double the 2.99 million units recorded a year earlier, according to estimates from the China Passenger Car Association.
+A:Title:China Electric And Plug-in Hybrid Cars Sales;X-Axis:2.99 Million Units;Y-Axis: 2021
+
+Q:Peru Copper output in November 2022 climbed 3.4% to 224,976 mt from 195,117 mt a year earlier on the startup of Anglo American's $5.3 billion Quellaveco mine and gains at mines operated by Freeport-McMoRan, Antamina and Southern Copper, the Energy & Mines Ministry said in a statement
+A:Title:Peru Copper Production;X-Axis:195,117 Tonnes;Y-Axis: Nov-22
+
+Q:Chile QUARTERLY Q4 2022 exports of refined copper to China, the world's largest consumer of copper, rose 15.7% to 312,327 mt, however, offsetting a 61% fall in exports to the US to 63,948 and a 19% drop in exports to South Korea to 49,654 mt.
+A:Title:Chile Refined Copper Exports to South Korea;X-Axis:49,654 Tonnes;Y-Axis: Q4 2022
+
+Q:Chile QUARTERLY Q4 2022 exports of refined copper to China, the world's largest consumer of copper, rose 15.7% to 312,327 mt, however, offsetting a 61% fall in exports to the US to 63,948 and a 19% drop in exports to South Korea to 49,654 mt.
+A:Title:Chile Refined Copper Exports to USA;X-Axis:63,948 Tonnes;Y-Axis: Q4 2022
+
+Q:Chile QUARTERLY Q4 2022 exports of refined copper to China, the world's largest consumer of copper, rose 15.7% to 312,327 mt, however, offsetting a 61% fall in exports to the US to 63,948 and a 19% drop in exports to South Korea to 49,654 mt.
+A:Title:Chile Refined Copper Exports To China;X-Axis:312,327 Tonnes;Y-Axis: Q4 2022 
+
+Q:Chile Q4 2022 Exports of copper concentrates reached 2.838 million mt (total weight), down 6.8% from 12 months earlier, including a 2.6% drop in December to 920,117 mt.An 11.1% drop in exports to China in Q4 (to 2.014 million mt) was offset by a 48.1% increase in exports to Japan (to 490,463 mt).
+A:Title:Chile Copper Concentrates Exports To Japan;X-Axis:490,463 tonnes;Y-Axis: Q4 2022 
+
+Q:Chile Q4 2022 Exports of copper concentrates reached 2.838 million mt (total weight), down 6.8% from 12 months earlier, including a 2.6% drop in December to 920,117 mt.An 11.1% drop in exports to China in Q4 (to 2.014 million mt) was offset by a 48.1% increase in exports to Japan (to 490,463 mt).
+A:Title:Chile Copper Concentrates Exports To China;X-Axis:2.014 Million Tonnes;Y-Axis: Q4 2022 
+
+Q:Chilean Copper Commission said production from January through November 2022 totaled 4.825 million mt, down 5.9% from the same period in 2021. November production slid 6.9% to 449,000 mt.Production has fallen sharply at major producers including state-owned Codelco (down 10.3% to 1.3 million mt), Collahuasi (down 10.4% to 519,000 mt), and Lo Antofagasta's Los Pelambres mine (183% to 252,000 mt).
+A:Title:Chile Copper Production;X-Axis:449,000 Tonnes;Y-Axis: Nov-22
+
+Q:Chilean Copper Commission said production from January through November 2022 totaled 4.825 million mt, down 5.9% from the same period in 2021. November production slid 6.9% to 449,000 mt.Production has fallen sharply at major producers including state-owned Codelco (down 10.3% to 1.3 million mt), Collahuasi (down 10.4% to 519,000 mt), and Lo Antofagasta's Los Pelambres mine (183% to 252,000 mt).
+A:Title:Chile Copper Production;X-Axis:4.825 Million Tonnes;Y-Axis: Jan-Nov 2022 
+
+Q:From a market share of less than 1 per cent in India's import basket before the start of the Russia-Ukraine conflict in February 2022, Russia's share of India's imports rose to 1.62 million barrels per day in February, taking a 35 per cent share. 
+A:Title:India Crude Oil Imports From Russia;X-Axis:1.62 Million Barrels Per Day;Y-Axis: Feb-23
+
+Q:The Cobre Panama mine produced 350,438 mt of copper in 2022, representing about 1.5% of global copper production, with over half its volumes delivered to buyers in China, Japan, and South Korea, according to First Quantum 
+A:Title:Cobre Panama Copper Production;X-Axis:350,438 Tonnes;Y-Axis: 2022
+
+Q:Caixin/S&P's composite PMI, which includes both manufacturing and services activity, rose to 54.2 in February from 51.1 a month earlier, marking the quickest expansion since June.
+A:Title:China Composite PMI (Source: Caixin/S&P Global) ;X-Axis:51.1;Y-Axis: Jan-23
+
+Q:Caixin/S&P's composite PMI, which includes both manufacturing and services activity, rose to 54.2 in February from 51.1 a month earlier, marking the quickest expansion since June. 
+A:Title: China Composite PMI (Source: Caixin/S&P Global) ;X-Axis:54.2;Y-Axis: Feb-23
+
+Q:The Caixin/S&P Global services purchasing managers' index (PMI) rose to 55.0 in February from 52.9 in January, a back-to-back monthly increase in activity after the government abruptly dismantled anti-virus measures in December 
+A:Title:China Services Purchasing Managers Index (PMI) (Source: Caixin/S&P Global);X-Axis:55;Y-Axis: Feb-23
+
+Q:The Caixin/S&P Global services purchasing managers' index (PMI) rose to 55.0 in February from 52.9 in January, a back-to-back monthly increase in activity after the government abruptly dismantled anti-virus measures in December 
+A:Title:China Services Purchasing Managers Index (PMI) (Source: Caixin/S&P Global);X-Axis:52.9;Y-Axis: Jan-23
+
+Q:Chile produced 435,939 mt of copper in January, up 1.3% from the same month of 2021, government data showed Feb. 28. 
+A:Title:Chile Copper Production;X-Axis:435,939 Tonnes;Y-Axis: Jan-23
+
+Q:Chile Molybdenum production rose 15% on the year to 3,772 mt. The metal is a key by-product in many copper mines in Chile.Gold production fell 13% to 2,111 kilograms while silver production fell 14% to 82,284 kg.
+A:Title:Chile Silver Production;X-Axis:82,284 Kg;Y-Axis: Jan-23
+
+Q:Chile Molybdenum production rose 15% on the year to 3,772 mt. The metal is a key by-product in many copper mines in Chile.Gold production fell 13% to 2,111 kilograms while silver production fell 14% to 82,284 kg. 
+A:Title:Chile Gold Production;X-Axis:2,111 Kilograms;Y-Axis: Jan-23
+
+Q:Chile Molybdenum production rose 15% on the year to 3,772 mt. The metal is a key by-product in many copper mines in Chile.Gold production fell 13% to 2,111 kilograms while silver production fell 14% to 82,284 kg.
+A:Title:Chile Molybdenum Production;X-Axis:3,772 Tonnes;Y-Axis: Jan-23
+
+Q:Japan imported 1.9 million tonnes of LNG from Oman in 2021, 2.6% of its total LNG imports.
+A:Title:Japan LNG Imports From Oman;X-Axis:1.9 Million Tonnes;Y-Axis: 2021
+
+Q:Contemporary Amperex Technology (CATL), based in east China’s Fujian province, retained its position as the world’s largest EV battery producer, according to Seoul-based SNE Research.CATL installed 165.7 gigawatt hours (GWh) of battery cells from January to November in 2022, 101.8 per cent more than the same period a year earlier, according to the research and consulting services provider. The company’s global market share rose from 32.8 per cent at the end of 2021 to 37.1 per cent.
+A:Title:CATL EV Battery Installed;X-Axis:165.7 GWh;Y-Axis: Jan - Nov 2022 
+
+Q:Sales of pure electric and plug-in hybrid cars in China are likely to have topped 6.4 million units in 2022, more than double the 2.99 million units recorded a year earlier, according to estimates from the China Passenger Car Association.
+A:Title:China Electric And Plug-in Hybrid Cars Sales;X-Axis:2.99 Million Units;Y-Axis: 2021
+
+Q:Peru Copper output in November 2022 climbed 3.4% to 224,976 mt from 195,117 mt a year earlier on the startup of Anglo American's $5.3 billion Quellaveco mine and gains at mines operated by Freeport-McMoRan, Antamina and Southern Copper, the Energy & Mines Ministry said in a statement
+A:Title:Peru Copper Production;X-Axis:195,117 Tonnes;Y-Axis: Nov-22
+
+Q:Chile QUARTERLY Q4 2022 exports of refined copper to China, the world's largest consumer of copper, rose 15.7% to 312,327 mt, however, offsetting a 61% fall in exports to the US to 63,948 and a 19% drop in exports to South Korea to 49,654 mt.
+A:Title:Chile Refined Copper Exports to South Korea;X-Axis:49,654 Tonnes;Y-Axis: Q4 2022 
+
+Q:Chile QUARTERLY Q4 2022 exports of refined copper to China, the world's largest consumer of copper, rose 15.7% to 312,327 mt, however, offsetting a 61% fall in exports to the US to 63,948 and a 19% drop in exports to South Korea to 49,654 mt.
+A:Title:Chile Refined Copper Exports to USA;X-Axis:63,948 Tonnes;Y-Axis: Q4 2022 
+
+Q:Chile QUARTERLY Q4 2022 exports of refined copper to China, the world's largest consumer of copper, rose 15.7% to 312,327 mt, however, offsetting a 61% fall in exports to the US to 63,948 and a 19% drop in exports to South Korea to 49,654 mt.
+A:Title:Chile Refined Copper Exports To China;X-Axis:312,327 Tonnes;Y-Axis: Q4 2022 
+
+Q:Chile Q4 2022 Exports of copper concentrates reached 2.838 million mt (total weight), down 6.8% from 12 months earlier, including a 2.6% drop in December to 920,117 mt.An 11.1% drop in exports to China in Q4 (to 2.014 million mt) was offset by a 48.1% increase in exports to Japan (to 490,463 mt).
+A:Title:Chile Copper Concentrates Exports To Japan;X-Axis:490,463 tonnes;Y-Axis: Q4 2022 
+
+Q:Chile Q4 2022 Exports of copper concentrates reached 2.838 million mt (total weight), down 6.8% from 12 months earlier, including a 2.6% drop in December to 920,117 mt.An 11.1% drop in exports to China in Q4 (to 2.014 million mt) was offset by a 48.1% increase in exports to Japan (to 490,463 mt).
+A:Title:Chile Copper Concentrates Exports To China;X-Axis:2.014 Million Tonnes;Y-Axis: Q4 2022
+
+Q:Chilean Copper Commission said production from January through November 2022 totaled 4.825 million mt, down 5.9% from the same period in 2021. November production slid 6.9% to 449,000 mt.Production has fallen sharply at major producers including state-owned Codelco (down 10.3% to 1.3 million mt), Collahuasi (down 10.4% to 519,000 mt), and Lo Antofagasta's Los Pelambres mine (183% to 252,000 mt).
+A:Title:Chile Copper Production;X-Axis:449,000 Tonnes;Y-Axis: Nov-22
+
+Q:Chilean Copper Commission said production from January through November 2022 totaled 4.825 million mt, down 5.9% from the same period in 2021. November production slid 6.9% to 449,000 mt.Production has fallen sharply at major producers including state-owned Codelco (down 10.3% to 1.3 million mt), Collahuasi (down 10.4% to 519,000 mt), and Lo Antofagasta's Los Pelambres mine (183% to 252,000 mt).
+A:Title:Chile Copper Production;X-Axis:4.825 Million Tonnes;Y-Axis: Jan-Nov 2022 
+
+Q:As of Friday February 17, the SMM Imported Copper Concentrate Index (weekly) stood at $78.23/mt, $1.15/mt lower than February 10.The production at mines was buffeted again due to mudslides in Indonesia. 
+A:Title:China Imported Copper Concentrate TC Index (SMM);X-Axis:$78.23/Mt;Y-Axis: 02-23
+
+Q:Antofagasta pretax profits fell 26% last year to $2.6 billion, reflecting a decline in copper production and lower copper prices. 
+A:Title:Antofagasta Pretax Profits;X-Axis:$2.6 Billion;Y-Axis: 2022
+
+Q:Global miner BHP Group reported a steeper-than-expected 32% fall in first-half profit. miner reported underlying profit attributable from continuing operations of $6.6 billion, down from $9.72 billion a year earlier 
+A:Title:BHP Group Profit Attributable From Continuing Operations;X-Axis:$9.72 Billion;Y-Axis: H1 2022 (FY) 
+
+Q:Global miner BHP Group reported a steeper-than-expected 32% fall in first-half profit. miner reported underlying profit attributable from continuing operations of $6.6 billion, down from $9.72 billion a year earlier
+A:Title:BHP Group Profit Attributable From Continuing Operations;X-Axis:$6.6 Billion;Y-Axis: H1 2023 (FY)
+
+Q:Peru December 2022 Copper exports gained 19% to 271,500 mt from 228,000 mt a year earlier, while prices declined by 19% to $3.21/lb from $3.97/lb, cutting export revenue by 4% to $1.92 billion. Lead jumped 32% to 62,000 mt with revenue up 35% to $148 million,
+A:Title:Peru Copper Shipments;X-Axis:271,500 Tonnes;Y-Axis: Dec-22
+
+Q:Peru December 2022 Zinc shipments fell 21.6% to 72,700 mt, slashing export revenue by one-third to $157 million, while tin was down 12.7% to 2,600 mt and molybdenum plunged 31% to 3,000 mt, the country's central bank said in a statement posted on its website.Gold exports slid 5% to 450,100 oz from 473,400 oz a year ago, trimming export revenue by 4% to $809 million even as prices climbed 0.5% to $1,798/oz from $1,788/oz, the bank said. Silver dropped 12% to 400,000 oz. 
+A:Title:Peru Zinc Exports;X-Axis:72,700 Tonnes;Y-Axis: Dec-22
+
+Q:the Fed's preferred inflation measure — the annual core PCE price index — accelerated in January, coming in at 4.7% versus the expected 4.3%.There's a major reset in how high rates will go. People are now thinking over 6%. That's significant enough that it is breaking gold's back, OANDA senior market analyst Edward Moya told Kitco News. 
+A:Title:USA Core PCE Price Index Annual;X-Axis:0.047;Y-Axis: Jan-23
+
+Q:Net imports into the world's top gold consumer stood at 22.24 tonnes in January, compared with 42.16 tonnes in December, the data showed. Total gold imports via Hong Kong were down about 47.3 per cent to 22.992 tonnes. 
+A:Title:China Gold Net Imports Via Hong Kong;X-Axis:42.16 Tonnes;Y-Axis: Jan-23
+
+Q:Net imports into the world's top gold consumer stood at 22.24 tonnes in January, compared with 42.16 tonnes in December, the data showed. Total gold imports via Hong Kong were down about 47.3 per cent to 22.992 tonnes. 
+A:Title:China Gold Net Imports Via Hong Kong;X-Axis:22.24 Tonnes;Y-Axis: Jan-23
+
+Q:In 2022, Almalyk’s production of rare metals comprised 1,177 mt of molybdenum, 33.8 mt of tungsten, 34.5 mt of selenium, 2.8 mt of tellurium and 92.5 kg of palladium.These came on top of the company’s flagship products -- 148,516 mt of copper cathode, 90,050 mt of zinc and 815,000 mt of sulfuric acid. 
+A:Title:Almalyk Molybdenum Production;X-Axis:1,177 Tonnes;Y-Axis: 07-05
+
+Q:China renewable power capacity additions have remained at record levels, with solar installations at 87GW in 2022 and expected to rise further in 2023. 
+A:Title:China Renewable Power Capacity Additions;X-Axis:87Gw;Y-Axis: 07-05
+
+Q:Mexico Annual average inflation rose to 7.8% in October 2022 (September: 7.6%). Meanwhile, core inflation ticked up to 8.4% in October, from September’s 8.3%.
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.076;Y-Axis: Sep-22
+
+Q:Mexico Annual average inflation rose to 7.8% in October 2022 (September: 7.6%). Meanwhile, core inflation ticked up to 8.4% in October, from September’s 8.3%.
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.078;Y-Axis: Oct-22
+
+Q:Annual average inflation in Mexico rose to 7.6% in September 2022 (August: 7.4%). Meanwhile, core inflation ticked up to 8.3% in September, from the previous month's 8.1%.
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.074;Y-Axis: Aug-22
+
+Q:Inflation in Mexico rose to 8.7% in August 2022 from July’s 8.2%. August's figure was the highest inflation rate since December 2000 and was more than double the Central Bank’s 2.0%–4.0% target range.
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.082;Y-Axis: Jul-22
+
+Q:Inflation in Mexico rose to 8.7% in August 2022 from July’s 8.2%. August's figure was the highest inflation rate since December 2000 and was more than double the Central Bank’s 2.0%–4.0% target range.
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.087;Y-Axis: Aug-22
+
+Q:Inflation in Mexico came in at 8.0% in June 2022, up from May’s 7.7% and further above the Central Bank’s 2.0%–4.0% target range. June's figure marked the highest inflation rate since January 2001. Meanwhile, the trend pointed up slightly, with annual average inflation coming in at 7.0% in June (May: 6.8%).
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.077;Y-Axis: May-22
+
+Q:Inflation in Mexico came in at 8.0% in June 2022, up from May’s 7.7% and further above the Central Bank’s 2.0%–4.0% target range. June's figure marked the highest inflation rate since January 2001. Meanwhile, the trend pointed up slightly, with annual average inflation coming in at 7.0% in June (May: 6.8%).
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.068;Y-Axis: May-22
+
+Q:Inflation in Mexico came in at 8.0% in June 2022, up from May’s 7.7% and further above the Central Bank’s 2.0%–4.0% target range. June's figure marked the highest inflation rate since January 2001. Meanwhile, the trend pointed up slightly, with annual average inflation coming in at 7.0% in June (May: 6.8%).
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.07;Y-Axis: Jun-22
+
+Q:Inflation in Mexico came in at 8.0% in June 2022, up from May’s 7.7% and further above the Central Bank’s 2.0%–4.0% target range. June's figure marked the highest inflation rate since January 2001. Meanwhile, the trend pointed up slightly, with annual average inflation coming in at 7.0% in June (May: 6.8%).
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.08;Y-Axis: Jun-22
+
+Q:Inflation in Mexico came in at 7.5% in March 2022, up from February’s 7.3% and well above the Central Bank’s 2.0%–4.0% target range. March's figure represented the highest inflation rate since January 2001. Meanwhile, the trend pointed up slightly, with annual average inflation coming in at 6.5% in March.6
+focus-economics
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.075;Y-Axis: Mar-22
+
+Q:Inflation in Mexico came in at 7.5% in March 2022, up from February’s 7.3% and well above the Central Bank’s 2.0%–4.0% target range. March's figure represented the highest inflation rate since January 2001. Meanwhile, the trend pointed up slightly, with annual average inflation coming in at 6.5% in March.6
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.065;Y-Axis: Mar-22
+
+Q:Inflation in Mexico came in at 7.3% in February 2022, up from January’s 7.1%, well above the Central Bank’s 2.0%–4.0% target range. Meanwhile, the trend pointed up, with annual average inflation coming in at 6.3% in February (January: 6.0%)
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.063;Y-Axis: Feb-22
+
+Q:Inflation in Mexico came in at 7.3% in February 2022, up from January’s 7.1%, well above the Central Bank’s 2.0%–4.0% target range. Meanwhile, the trend pointed up, with annual average inflation coming in at 6.3% in February (January: 6.0%)
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.073;Y-Axis: Feb-22
+
+Q:Mexico Inflation came in at 7.1% in January 2022, which was down from December’s 7.4% but still well above the Central Bank’s 3.0% target. January's reading marked the weakest inflation rate since October 2021. Annual average inflation rose to 6.0% in January (December: 5.7%).
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.071;Y-Axis: Jan-22
+
+Q:Mexico Inflation came in at 7.1% in January 2022, which was down from December’s 7.4% but still well above the Central Bank’s 3.0% target. January's reading marked the weakest inflation rate since October 2021. Annual average inflation rose to 6.0% in January (December: 5.7%).
+A:Title:Mexico Annual Average Inflation Growth (YOY)
+;X-Axis:0.06;Y-Axis: Jan-22
+
+Q:Mexico Inflation came in at 7.1% in January 2022, which was down from December’s 7.4% but still well above the Central Bank’s 3.0% target. January's reading marked the weakest inflation rate since October 2021. Annual average inflation rose to 6.0% in January (December: 5.7%).
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.057;Y-Axis: Dec-21
+
+Q:Mexico Inflation came in at 7.1% in January 2022, which was down from December’s 7.4% but still well above the Central Bank’s 3.0% target. January's reading marked the weakest inflation rate since October 2021. Annual average inflation rose to 6.0% in January (December: 5.7%).
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.074;Y-Axis: Dec-21
+
+Q:Inflation in Mexico ticked down to 5.6% in August 2021, following July’s 5.8%. August's figure represented the lowest inflation rate since March. Annual average inflation ticked up to 4.7% in August (July: 4.5%) 
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.047;Y-Axis: Aug-21
+
+Q:Inflation in Mexico ticked down to 5.6% in August 2021, following July’s 5.8%. August's figure represented the lowest inflation rate since March. Annual average inflation ticked up to 4.7% in August (July: 4.5%) 
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.058;Y-Axis: Jul-21
+
+Q:Inflation in Mexico ticked down to 5.6% in August 2021, following July’s 5.8%. August's figure represented the lowest inflation rate since March. Annual average inflation ticked up to 4.7% in August (July: 4.5%) 
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.056;Y-Axis: Aug-21
+
+Q:Inflation in Mexico ticked down to 5.6% in August 2021, following July’s 5.8%. August's figure represented the lowest inflation rate since March. Annual average inflation ticked up to 4.7% in August (July: 4.5%) 
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.045;Y-Axis: Jul-21
+
+Q:Annual average inflation in Mexico rose to 7.8% in October 2021(September: 7.6%). Meanwhile, core inflation ticked up to 8.4% in October, from September’s 8.3%.
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.076;Y-Axis: Sep-21
+
+Q:Annual average inflation in Mexico rose to 7.8% in October 2021(September: 7.6%). Meanwhile, core inflation ticked up to 8.4% in October, from September’s 8.3%.
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.078;Y-Axis: Oct-21
+
+Q:Inflation in Mexico came in at 5.9% in June 2021, unchanged from May’s figure but notably above the Central Bank’s 2.0%–4.0% target range. High inflation in recent months has been driven by recovering activity, higher fuel prices and supply-chain tightness. Meanwhile, the trend pointed up slightly, with annual average inflation coming in at 4.3% in June (May: 4.1%) 
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.059;Y-Axis: Jun-21
+
+Q:Inflation in Mexico came in at 5.9% in June 2021, unchanged from May’s figure but notably above the Central Bank’s 2.0%–4.0% target range. High inflation in recent months has been driven by recovering activity, higher fuel prices and supply-chain tightness. Meanwhile, the trend pointed up slightly, with annual average inflation coming in at 4.3% in June (May: 4.1%) 
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.043;Y-Axis: Jun-21
+
+Q:Inflation in Mexico ticked down to 5.9% in May 2021, from April’s 6.1%, but remained above the Central Bank’s 2.0%–4.0% target range. Meanwhile, the trend pointed up mildly, with annual average inflation coming in at 4.1% in May (April: 3.9%)
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.041;Y-Axis: May-21
+
+Q:Inflation in Mexico ticked down to 5.9% in May 2021, from April’s 6.1%, but remained above the Central Bank’s 2.0%–4.0% target range. Meanwhile, the trend pointed up mildly, with annual average inflation coming in at 4.1% in May (April: 3.9%)
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.059;Y-Axis: May-21
+
+Q:Inflation in Mexico came in at 6.1% in April 2021, which was up from March’s 4.7%. April's result represented the highest inflation rate since December 2017, but was partially due to a fuel-price-driven base effect. Annual average inflation rose to 3.9% in April (March: 3.5%).
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.047;Y-Axis: Mar-21
+
+Q:Inflation in Mexico came in at 6.1% in April 2021, which was up from March’s 4.7%. April's result represented the highest inflation rate since December 2017, but was partially due to a fuel-price-driven base effect. Annual average inflation rose to 3.9% in April (March: 3.5%).
+A:Title:Mexico Inflation Growth Rate (YOY);X-Axis:0.061;Y-Axis: Apr-21
+
+Q:Inflation in Mexico came in at 6.1% in April 2021, which was up from March’s 4.7%. April's result represented the highest inflation rate since December 2017, but was partially due to a fuel-price-driven base effect. Annual average inflation rose to 3.9% in April (March: 3.5%).
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.035;Y-Axis: Mar-21
+
+Q:Inflation in Mexico came in at 6.1% in April 2021, which was up from March’s 4.7%. April's result represented the highest inflation rate since December 2017, but was partially due to a fuel-price-driven base effect. Annual average inflation rose to 3.9% in April (March: 3.5%).
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.039;Y-Axis: Apr-21
+
+Q:Annual average inflation in Mexico edged up to 3.5% in March 2021 as compared February 3.4%. Lastly, core inflation ticked up to 4.1% from February’s 3.9%.
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.035;Y-Axis: Mar-21
+
+Q:Inflation in Mexico rose to 3.8% in February 2021 from 3.5% in January—remaining within Banxico’s target range of 2.0%–4.0%. Meanwhile, annual average inflation held steady at 3.4% for the fourth consecutive month in February.
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.034;Y-Axis: Dec-20
+
+Q:Inflation in Mexico rose to 3.8% in February 2021 from 3.5% in January—remaining within Banxico’s target range of 2.0%–4.0%. Meanwhile, annual average inflation held steady at 3.4% for the fourth consecutive month in February.
+A:Title:Mexico Annual Average Inflation Growth (YOY);X-Axis:0.034;Y-Axis: Jan-21
+
+Q:Peru December 2022 Zinc shipments fell 21.6% to 72,700 mt, slashing export revenue by one-third to $157 million, while tin was down 12.7% to 2,600 mt and molybdenum plunged 31% to 3,000 mt, the country's central bank said in a statement posted on its website.Gold exports slid 5% to 450,100 oz from 473,400 oz a year ago, trimming export revenue by 4% to $809 million even as prices climbed 0.5% to $1,798/oz from $1,788/oz, the bank said. Silver dropped 12% to 400,000 oz. 
+A:Title:Peru Zinc Exports;X-Axis:72,700 Tonnes;Y-Axis: Dec-22
+
+Q:Serrote copper-gold mine Production in 2022 was recorded at 19,800 mt of copper and 9,000-10,000 oz of gold contained in 84,500 dmt of concentrate, they said in a Feb. 22 review of activities 
+A:Title:Serrote Copper Production;X-Axis:19,800 Tonnes;Y-Axis: 2022
+
+Q:Serrote copper-gold mine Production in 2022 was recorded at 19,800 mt of copper and 9,000-10,000 oz of gold contained in 84,500 dmt of concentrate, they said in a Feb. 22 review of activities 
+A:Title:Serrote Concentrate Production;X-Axis:84500;Y-Axis: 2022
+
+Q:Global Forest Watch found that Indonesia lost 230,000 hectares (568,300 acres) of its primary forest in 2021. 
+A:Title:Indonesia Primary Forest Loss;X-Axis:230,000 Hectares;Y-Axis: 2021
+
+Q:Anglo American Iron ore production decreased by 7% to 59.3 million mt (63.8 million mt in 2021), Anglo American said in a results statement. At the company’s South African operations, production fell 8% at Kumba to 37.7 million mt (40.9 million mt), reflecting the impact of high rainfall across Kumba's operating footprint and a safety intervention at Kolomela, as well as equipment reliability and the impact of third-party logistics constraints at both mines. In Brazil, Minas-Rio production decreased by 6% to 21.6 million mt (22.9 million mt) due to more challenging ore feed characteristics, lower mining equipment availability and heavy rainfall. 
+A:Title:Anglo American Iron Ore Production;X-Axis:63.8 Million Tonnes;Y-Axis: 2021
+
+Q:Anglo American Iron ore production decreased by 7% to 59.3 million mt (63.8 million mt in 2021), Anglo American said in a results statement. At the company’s South African operations, production fell 8% at Kumba to 37.7 million mt (40.9 million mt), reflecting the impact of high rainfall across Kumba's operating footprint and a safety intervention at Kolomela, as well as equipment reliability and the impact of third-party logistics constraints at both mines. In Brazil, Minas-Rio production decreased by 6% to 21.6 million mt (22.9 million mt) due to more challenging ore feed characteristics, lower mining equipment availability and heavy rainfall. 
+A:Title:Anglo American Iron Ore Production;X-Axis:59.3 Million Tonnes;Y-Axis: 2022
+
+Q:Anglo American Total copper production in 2022 of 664,500 mt increased by 3% (647,200 mt).  
+A:Title:Anglo American Copper Production;X-Axis:647,200 Tonnes;Y-Axis: 2021
+
+Q:Anglo American Total copper production in 2022 of 664,500 mt increased by 3% (647,200 mt).  
+A:Title:Anglo American Copper Production;X-Axis:664,500 Tonnes;Y-Axis: 2022
+
+Q:""Copper production at Ivanhoe Mines' 39.6%-owned Kamoa-Kakula mining complex in the Democratic Republic of Congo increased to 333,500 mt for the full 2022 calendar year, up 215% from 2021, the company said Jan. 9"" 
+A:Title:Kamoa-Kakola Copper Production;X-Axis:333,500 Tonnes;Y-Axis: 2022
+
+Q:""Platts assessed Chinese copper import premiums at $30/mt plus London Metal Exchange cash, CIF China, Jan. 11, for LME-registered normal brands of electrolytically refined cathode, down $5/mt on the week. The top ER brands differential was assessed at $2/mt, while the solvent-extracted/electrowon differential was assessed at minus $8/mt"" 
+A:Title:China Copper Cathodes Import Premium for LME registered Normal ER BRANDS [Source: Platts];X-Axis:$30/Mt;Y-Axis: 01-23
+
+Q:""Platts assessed CIF China Clean Copper Concentrates treatment and refining charges at $81.30/mt and 8.13 cents/lb, respectively, Jan. 11, down 40 cents/mt and 0.04 cent/lb, respectively, from Jan. 10.Platts assessed producer-to-trader copper concentrates TC/RC differentials at minus $9.10/mt and minus 0.91 cent/lb, respectively, up 40 cents/mt and 0.04 cent/lb from Jan. 10."" 
+A:Title:China Clean Copper Concentrates Treatment Charge [Source: Platts];X-Axis:$81.30/Mt;Y-Axis: Jan-23
+
+Q:""Platts assessed CIF China Clean Copper Concentrates treatment and refining charges at $81.30/mt and 8.13 cents/lb, respectively, Jan. 11, down 40 cents/mt and 0.04 cent/lb, respectively, from Jan. 10.Platts assessed producer-to-trader copper concentrates TC/RC differentials at minus $9.10/mt and minus 0.91 cent/lb, respectively, up 40 cents/mt and 0.04 cent/lb from Jan. 10."" 
+A:Title:China Clean Copper Concentrates Producer-to-trader TC Differential [Source:Platts];X-Axis:$ -9.10/Mt;Y-Axis: Jan-23
+
+Q:""Central Asia Metals' Kounrad solvent extraction–electrowinning (SX-EW) recovery plant in Kazakhstan produced a record-high 14,254 mt of copper cathode in 2022, up 1.5% year on year, the UK-based company said in a statement Jan. 10."" 
+A:Title:Central Asia Metals Kounrad (SX-EW) Plant Copper Production;X-Axis:14,254 Tonnes;Y-Axis: 2022
+
+Q:China’s refined copper imports totaled 3.88 million mt in 2022, up 7.1% from a year earlier, data from the country's General Administration of Customs showed Jan. 20.Imports reached 364,116 mt in December, down 13% from a year earlier and 4.4% lower from a month ago, according to the customs data. 
+A:Title:China Refined Copper Imports;X-Axis:364,116 Tonnes;Y-Axis: Dec-22
+
+Q:China’s refined copper imports totaled 3.88 million mt in 2022, up 7.1% from a year earlier, data from the country's General Administration of Customs showed Jan. 20.Imports reached 364,116 mt in December, down 13% from a year earlier and 4.4% lower from a month ago, according to the customs data.
+A:Title:China Refined Copper Imports;X-Axis:3.88 Million Tonnes;Y-Axis: 2022
+
+Q:Platts, part of S&P Global Commodity Insights, assessed Chinese copper import premiums at $30/mt plus London Metal Exchange cash, CIF China, Jan. 20, for LME-registered normal brands of electrolytically refined cathode, down $20/mt from a month earlier. This was the lowest level since May 5. 
+A:Title:China Copper Cathodes Import Premium for LME registered Normal ER BRANDS [Source: Platts];X-Axis:$30/Mt;Y-Axis: 20-Jan-23
+
+Q:China’s imports of refined copper from Chile -- the world's largest producer of copper -- increased by 20% from a year ago, to 911,696 mt in 2022. Chile accounted for 23.5% of China’s total imports.Meanwhile, imports from Russia fell by almost 20% to 324,232 mt, accounting for 8.3% of the country’s total. 
+A:Title:China Refined Copper Imports From Chile;X-Axis:911,696 Tonnes;Y-Axis: 2022
+
+Q:China’s imports of refined copper from Chile -- the world's largest producer of copper -- increased by 20% from a year ago, to 911,696 mt in 2022. Chile accounted for 23.5% of China’s total imports.Meanwhile, imports from Russia fell by almost 20% to 324,232 mt, accounting for 8.3% of the country’s total. 
+A:Title:China Refined Copper Imports from Russia;X-Axis:324,232 Tonnes;Y-Axis: 2022
+
+Q:Platts assessed CIF China Clean Copper Concentrates treatment and refining charges at $80.20/mt and 8.02 cents/lb, respectively on Jan. 20, up 60 cents/mt and 0.06 cents/lb from Jan. 19.Platts assessed producer-to-trader copper concentrate TC/RC differentials at minus $8.80/mt and minus 0.88 cent/lb, respectively, down 70 cents/mt and 0.07 cent/lb from Jan. 19 
+A:Title:China Clean Copper Concentrates Producer-to-trader TC Differential [Source:Platts];X-Axis:$ -8.80/Mt;Y-Axis: 20-Jan-23
+
+Q:Platts assessed CIF China Clean Copper Concentrates treatment and refining charges at $80.20/mt and 8.02 cents/lb, respectively on Jan. 20, up 60 cents/mt and 0.06 cents/lb from Jan. 19.Platts assessed producer-to-trader copper concentrate TC/RC differentials at minus $8.80/mt and minus 0.88 cent/lb, respectively, down 70 cents/mt and 0.07 cent/lb from Jan. 19 
+A:Title:China Clean Copper Concentrates Treatment Charge [Source: Platts];X-Axis:$80.20/Mt;Y-Axis: 20-Jan-23
+
+Q:Platts assessed the CIF China clean copper concentrate treatment and refining charges at $79.60/mt and 7.96 cents/lb, respectively, Jan. 19, down $1.80/mt and 0.18 cents/lb from Jan. 18.Platts assessed producer-to-trader copper concentrate TC/RC differentials at minus $8.10/mt and minus 0.81 cents/lb, respectively, Jan. 19, up 70 cents/mt and 0.07 cents/lb from Jan. 18. 
+A:Title:China Clean Copper Concentrates Producer-to-trader TC Differential [Source:Platts];X-Axis:$ -8.10/Mt;Y-Axis: 19-Jan-23
+
+Q:Platts assessed the CIF China clean copper concentrate treatment and refining charges at $79.60/mt and 7.96 cents/lb, respectively, Jan. 19, down $1.80/mt and 0.18 cents/lb from Jan. 18.Platts assessed producer-to-trader copper concentrate TC/RC differentials at minus $8.10/mt and minus 0.81 cents/lb, respectively, Jan. 19, up 70 cents/mt and 0.07 cents/lb from Jan. 18. 
+A:Title:China Clean Copper Concentrates Treatment Charge [Source: Platts];X-Axis:$79.60/Mt;Y-Axis: 19-Jan-23
+
+Q:Chile-based mining company Antofagasta has reported full-year 2022 copper production at 646,200 mt, down 10.4% year on year as stronger group production during the fourth quarter failed to offset the impact arising from drought-related disruption at the Los Pelambres site during Q2.Group copper production for Q4 2022 increased to 195,700 mt, up 7.6% from the previous quarter, supported by higher production at the Los Pelambres and Centinela Concentrates production sites. 
+A:Title:Antofagasta Copper Production;X-Axis:646,200 Tonnes;Y-Axis: 2022
+
+Q:Chile-based mining company Antofagasta has reported full-year 2022 copper production at 646,200 mt, down 10.4% year on year as stronger group production during the fourth quarter failed to offset the impact arising from drought-related disruption at the Los Pelambres site during Q2.Group copper production for Q4 2022 increased to 195,700 mt, up 7.6% from the previous quarter, supported by higher production at the Los Pelambres and Centinela Concentrates production sites. 
+A:Title:Antofagasta Copper Production;X-Axis:195,700 Tonnes;Y-Axis: Q4 2022 
+
+Q:Platts, part of S&P Global Commodity Insights, assessed Chinese copper import premiums at $32/mt plus London Metal Exchange cash, CIF China, on Jan. 18 for LME-registered normal brands of an electrolytically refined cathode, up $2/mt on the week. The top ER brands differential was assessed at $5/mt while the solvent-extracted/electrowon differential was assessed at minus $10/mt. 
+A:Title:China Copper Cathodes Import Premium for LME registered Normal ER BRANDS [Source: Platts];X-Axis:$32/Mt;Y-Axis: 18-Jan-23
+
+Q:Mining company Rambler Metals and Mining reported Jan. 18 that copper production at its 100% owned Ming copper-gold mine in eastern Canada totaled 1,588 mt in Q4 2022, down from 1,654 mt in the previous quarter, as a shortage of capital and limited access to spare parts weighed on output
+A:Title:Rambler Metals And Mining Copper Production;X-Axis:1,588 Tonnes;Y-Axis: Q4 2022 
+
+Q:Mining company Rambler Metals and Mining reported Jan. 18 that copper production at its 100% owned Ming copper-gold mine in eastern Canada totaled 1,588 mt in Q4 2022, down from 1,654 mt in the previous quarter, as a shortage of capital and limited access to spare parts weighed on output. 
+A:Title:Rambler Metals And Mining Copper Production;X-Axis:1,654 Tonnes;Y-Axis: Q3 2022
+
+Q:BHP last month agreed to acquire Australian copper producer OZ Minerals Ltd. for about $6.4 billion, its biggest deal in years. And rival Rio Tinto Group recently took full control of copper miner Turquoise Hill Resources Ltd. in a $3.1 billion deal. 
+A:Title:Global Copper M&A;X-Axis:$3.1 Billion;Y-Axis: Rio Tinto - Turquoise (2022) 
+
+Q:BHP last month agreed to acquire Australian copper producer OZ Minerals Ltd. for about $6.4 billion, its biggest deal in years. And rival Rio Tinto Group recently took full control of copper miner Turquoise Hill Resources Ltd. in a $3.1 billion deal. 
+A:Title:Global Copper M&A;X-Axis:$6.4 Billion;Y-Axis: BHP - Oz (Dec'22) 
+
+Q:
+Copper production at Chile's Codelco, the world's largest producer of the metal, fell almost 11% in 2022 as the state-owned company saw delays in major investment projects and a series of technical issues. Copper production had fallen by 172,000 mt in 2022 compared to 2021. Codelco produced a total of 1.73 million mt of copper in 2021, including 1.62 million mt from its own operations 
+A:Title:Codelco Copper Production From Own Operations;X-Axis:1.62 Million Tonnes;Y-Axis: 2021
+
+Q:
+Copper production at Chile's Codelco, the world's largest producer of the metal, fell almost 11% in 2022 as the state-owned company saw delays in major investment projects and a series of technical issues. Copper production had fallen by 172,000 mt in 2022 compared to 2021. Codelco produced a total of 1.73 million mt of copper in 2021, including 1.62 million mt from its own operations 
+A:Title:Codelco Copper Production;X-Axis:1.73 Million Tonnes;Y-Axis: 2021
+
+Q:The latest Swiss customs data revealed that the country imported 28.5 tonnes of Russian gold in 2022, which amounts to $1.7 billion.  
+A:Title:Switzerland Imports of Russian Gold;X-Axis:28.5 Tonnes;Y-Axis: 2022
+
+Q:Thursday, the U.S. Bureau of Economic Analysis said, in its advanced report, that U.S. Gross Domestic Product grew 2.9% in the fourth quarter of last year. While economic activity was down from 3.2% growth reported in the third quarter, the data beat expectations. According to consensus estimates, economists were looking for growth of around 2.6%. 
+A:Title:USA Gross Domestic Product Growth;X-Axis:0.029;Y-Axis: Q4 2022 
+
+Q:Thursday, the U.S. Bureau of Economic Analysis said, in its advanced report, that U.S. Gross Domestic Product grew 2.9% in the fourth quarter of last year. While economic activity was down from 3.2% growth reported in the third quarter, the data beat expectations. According to consensus estimates, economists were looking for growth of around 2.6%. 
+A:Title:USA Gross Domestic Product Growth;X-Axis:0.032;Y-Axis: Q3 2022 
+
+Q:Located in the Taviche mining district, the San Jose mine has been in commercial production since September 2011. Last year, the mine produced 5.8 million ounces of silver and 34,124 ounces of gold, both within Fortuna’s guidance. 
+A:Title:San Jose Silver Production;X-Axis:5.8 Million Ozs;Y-Axis: 2022
+
+Q:Located in the Taviche mining district, the San Jose mine has been in commercial production since September 2011. Last year, the mine produced 5.8 million ounces of silver and 34,124 ounces of gold, both within Fortuna’s guidance. 
+A:Title:San Jose Gold Production;X-Axis:34,124 Ozs;Y-Axis: 2022
+
+Q:Fortescue's Pilbara iron business that bankrolls the green energy investments achieved record December quarter shipments to 49.4 million tonnes at an average revenue of $US87 a dry tonne.
+A:Title:Fortescue Pilbara Iron Ore Shipments;X-Axis:49.4 Million Tonnes;Y-Axis: Q4 2022 
+
+Q:The U.K. inflation rate fell for the third month in a row in January to hit 10.1%, below economists’ expectations, but high food and energy prices continued to put the pressure on British households. rate fell to 10.5% for December. Inflation has fallen consistently since hitting a 41-year-high of 11.1% in October. 
+A:Title:UK Consumer Price Index (CPI) YoY;X-Axis:0.111;Y-Axis: Oct-22
+
+Q:The U.K. inflation rate fell for the third month in a row in January to hit 10.1%, below economists’ expectations, but high food and energy prices continued to put the pressure on British households. rate fell to 10.5% for December. Inflation has fallen consistently since hitting a 41-year-high of 11.1% in October. 
+A:Title:UK Consumer Price Index (CPI) YoY;X-Axis:0.105;Y-Axis: Dec-22
+
+Q:The U.K. inflation rate fell for the third month in a row in January to hit 10.1%, below economists’ expectations, but high food and energy prices continued to put the pressure on British households. rate fell to 10.5% for December. Inflation has fallen consistently since hitting a 41-year-high of 11.1% in October. 
+A:Title:UK Consumer Price Index (CPI) YoY;X-Axis:0.101;Y-Axis: Jan-23
+
+Q:Argentina, which has battled spiraling prices for years, saw monthly inflation speed up to 6% in January, in line with forecasts, while the annual figure hit 98.8%, the highest since hyperinflation in the 1990s. 
+A:Title:Argentina Inflation Monthly;X-Axis:0.06;Y-Axis: Jan-23
+
+Q:Argentina, which has battled spiraling prices for years, saw monthly inflation speed up to 6% in January, in line with forecasts, while the annual figure hit 98.8%, the highest since hyperinflation in the 1990s. 
+A:Title:Argentina CPI Inflation Growth Rate;X-Axis:0.988;Y-Axis: Jan-23
+
+Q:US inflation continued to cool in January, rising at an annual rate of 6.4%, according to figures released by the Bureau of Labor Statistics. The consumer price index (CPI) – which measures a basket of goods and services – has now fallen for seven consecutive months, down from a four-decade high of 9.1% last June, and down from an annual rate of 6.5% in December. 
+A:Title:USA Consumer Price Index (CPI) YoY;X-Axis:0.065;Y-Axis: Dec-22
+
+Q:US inflation continued to cool in January, rising at an annual rate of 6.4%, according to figures released by the Bureau of Labor Statistics. The consumer price index (CPI) – which measures a basket of goods and services – has now fallen for seven consecutive months, down from a four-decade high of 9.1% last June, and down from an annual rate of 6.5% in December. 
+A:Title:USA Consumer Price Index (CPI) YoY;X-Axis:0.091;Y-Axis: Jun-22
+
+Q:US inflation continued to cool in January, rising at an annual rate of 6.4%, according to figures released by the Bureau of Labor Statistics. The consumer price index (CPI) – which measures a basket of goods and services – has now fallen for seven consecutive months, down from a four-decade high of 9.1% last June, and down from an annual rate of 6.5% in December. 
+A:Title:USA Consumer Price Index (CPI) YoY;X-Axis:0.064;Y-Axis: Jan-23
+
+Q:Newcrest booked a $293 million net profit in the six months ended Dec. 31, down 2% from $298 million in the year-earlier period, despite gold production soaring 25% to 1.04 million oz and copper production jumping 32% to 67,023 mt. Group all-in sustaining costs also fell 8% from the second half of 2021 to $1,089/oz. 
+A:Title:Newcrest Gold Production;X-Axis:1.04 Million Ozs;Y-Axis: H2 2022 
+
+Q:Newcrest booked a $293 million net profit in the six months ended Dec. 31, down 2% from $298 million in the year-earlier period, despite gold production soaring 25% to 1.04 million oz and copper production jumping 32% to 67,023 mt. Group all-in sustaining costs also fell 8% from the second half of 2021 to $1,089/oz. 
+A:Title:Newcrest Net Profit;X-Axis:$293 Million;Y-Axis: H2 2022
+
+Q:Newcrest booked a $293 million net profit in the six months ended Dec. 31, down 2% from $298 million in the year-earlier period, despite gold production soaring 25% to 1.04 million oz and copper production jumping 32% to 67,023 mt. Group all-in sustaining costs also fell 8% from the second half of 2021 to $1,089/oz. 
+A:Title:Newcrest Copper Production;X-Axis:67,023 Tonnes;Y-Axis: H2 2022 
+
+Q:Newcrest booked a $293 million net profit in the six months ended Dec. 31, down 2% from $298 million in the year-earlier period, despite gold production soaring 25% to 1.04 million oz and copper production jumping 32% to 67,023 mt. Group all-in sustaining costs also fell 8% from the second half of 2021 to $1,089/oz. 
+A:Title:Newcrest Net Profit;X-Axis:$298 Million;Y-Axis: H2 2022
+
+Q:Vale sold 181,000 mt of nickel in 2022, relatively stable from 2021's 182,000 mt. Copper sales increased to 78,000 mt in 2022, from 68,000 mt in 2021, according to Vale's results release.It also sold 2,361 mt cobalt, up from 2,017 mt the previous year. 
+A:Title:Vale Cobalt Sales;X-Axis:2,361 Tonnes;Y-Axis: 2022
+
+Q:Vale sold 181,000 mt of nickel in 2022, relatively stable from 2021's 182,000 mt. Copper sales increased to 78,000 mt in 2022, from 68,000 mt in 2021, according to Vale's results release.It also sold 2,361 mt cobalt, up from 2,017 mt the previous year. 
+A:Title:Vale Copper Sales;X-Axis:78,000 Tonnes;Y-Axis: 2022
+
+Q:Vale sold 181,000 mt of nickel in 2022, relatively stable from 2021's 182,000 mt. Copper sales increased to 78,000 mt in 2022, from 68,000 mt in 2021, according to Vale's results release.It also sold 2,361 mt cobalt, up from 2,017 mt the previous year. 
+A:Title:Vale Copper Sales;X-Axis:68,000 Tonnes;Y-Axis: 2021
+
+Q:Vale sold 181,000 mt of nickel in 2022, relatively stable from 2021's 182,000 mt. Copper sales increased to 78,000 mt in 2022, from 68,000 mt in 2021, according to Vale's results release.It also sold 2,361 mt cobalt, up from 2,017 mt the previous year. 
+A:Title:Vale Cobalt Sales;X-Axis:2,017 Tonnes;Y-Axis: 2021
+
+Q:Vale sold 181,000 mt of nickel in 2022, relatively stable from 2021's 182,000 mt. Copper sales increased to 78,000 mt in 2022, from 68,000 mt in 2021, according to Vale's results release.It also sold 2,361 mt cobalt, up from 2,017 mt the previous year.
+A:Title:Vale Nickel Sales;X-Axis:182,000 Tonnes;Y-Axis: 2021
+
+Q:Vale sold 181,000 mt of nickel in 2022, relatively stable from 2021's 182,000 mt. Copper sales increased to 78,000 mt in 2022, from 68,000 mt in 2021, according to Vale's results release.It also sold 2,361 mt cobalt, up from 2,017 mt the previous year. 
+A:Title:Vale Nickel Sales;X-Axis:181,000 Tonnes;Y-Axis: 2022
+
+Q:Energy prices may have jumped to unprecedented highs, but for France's state-controlled power company EDF 2022 was a miserable year with record annual losses of €17.9bn (£16bn). 
+A:Title:EDF Profit / Loss;X-Axis:€ -17.9Bn;Y-Axis: 2022
+
+Q:Australia’s port of Port Hedland exported 87,344 mt of spodumene concentrate in January, more than quadrupling year on year and rising 15.5% from December, according to the latest statistics released Feb. 13 by the Pilbara Ports Authority. 
+A:Title:Hedland Port (Australia) Spodumene Concentrate Exports;X-Axis:87,344 Tonnes;Y-Axis: Jan-23
+
+Q:Singapore Gross domestic product (GDP) grew 2.1% year-on-year in the fourth quarter, the Ministry of Trade and Industry (MTI) said, slightly lower than the 2.2% growth in the government’s advance estimate due to slightly weaker construction and service sector growth.Analysts had expected a 2.3% increase, according to a Reuters poll.For the full year, GDP grew 3.6% versus an initial 3.8% estimate. 
+A:Title:Singapore Gross Domestic Product Growth Year-on-year;X-Axis:0.036;Y-Axis: 2022
+
+Q:Singapore Gross domestic product (GDP) grew 2.1% year-on-year in the fourth quarter, the Ministry of Trade and Industry (MTI) said, slightly lower than the 2.2% growth in the government’s advance estimate due to slightly weaker construction and service sector growth.Analysts had expected a 2.3% increase, according to a Reuters poll.For the full year, GDP grew 3.6% versus an initial 3.8% estimate. 
+A:Title:Singapore Gross Domestic Product Growth Year-on-year;X-Axis:0.021;Y-Axis: Q4 2022 
+
+Q:On molybdenum, Antofagasta reported Q4 production at 3,100 mt, up 500 mt from the previous quarter, while full year production was 9,700 mt, 7.6% lower than in 2021 due to lower throughput and grades at Los Pelambres 
+A:Title:Antofagasta Molybdenum Production;X-Axis:9,700 Tonnes;Y-Axis: 2022
+
+Q:On molybdenum, Antofagasta reported Q4 production at 3,100 mt, up 500 mt from the previous quarter, while full year production was 9,700 mt, 7.6% lower than in 2021 due to lower throughput and grades at Los Pelambres 
+A:Title:Antofagasta Molybdenum Production;X-Axis:3,100 Tonnes;Y-Axis: Q4 2022 
+
+Q:Freeport-McMoRan boosted its copper output in the fourth quarter of 2022 by 15.5% on the year to 253.8 million lb, the company said Feb. 2, as the milling rate was ramped up at its Peruvian Cerro Verde mine unit. 
+A:Title:Freeport-McMoRan Copper Production;X-Axis:253.8 Million Pounds;Y-Axis: Q4 2022 
+
+Q:Freeport-Mcmoran Q4 2022 copper sales rose 10.7% to 259.7 million lb from 234.7 million lb a year earlier, the company said. Capex totaled $206.3 million in 2022, compared with $163 million a year earlier 
+A:Title:Freeport-McMoRan Copper Sales;X-Axis:234.7 Million Pounds;Y-Axis: Q4 2021 
+
+Q:China’s refined copper imports totaled 546,719 mt in January-February, down 6.3% from a year earlier, data from China’s customs showed March 22.
+A:Title:China Refined Copper Imports;X-Axis:January-February;Y-Axis: 546,719 tonnes
+
+Q:China’s imports of refined copper from Chile -- the world's largest producer of copper -- increased by 23.3% from a year ago to 140,767 mt in the first two months of this year. Chilean imports accounted for 25.7% of China’s total  imports.
+A:Title:China Refined Copper Imports From Chile;X-Axis:;Y-Axis: 140,767 Tonnes
+
+
+Q:Meanwhile, China’s refined copper exports soared 167.8% from a year earlier to 54,996 mt during January-February, customs data showed.
+A:Title:China Refined Copper Exports;X-Axis:;Y-Axis: 54,996 Tonnes
+
+
+Q:China’s refined copper Imports from Russia fell sharply by 62.2% to 25,005 mt, which accounted for 4.6% of the country’s total.
+A:Title:China Refined Copper Imports from Russia;X-Axis:;Y-Axis: 25,005 Tonnes
+
+Q:Peru January 2023 Molybdenum doubled to 3,700 mt after some shipments from China Minmetals and Hudbay Minerals were held over from December
+A:Title:Peru Molybdenum Exports;X-Axis:Jan-23;Y-Axis: 3,700 Tonnes
+
+Q:Peru January 2023 Tin halved to 900 mt after the country's lone tin miner Minsur shut its San Rafael mine for six weeks starting Jan. 12 as nationwide political protests hampered operations at mines, refineries and ports.
+A:Title:Peru Tin Exports;X-Axis:Jan-23;Y-Axis: 900 Tonnes
+
+Q:Peru January 2023 Gold exports plunged 31% to 305,400 oz from 441,400 oz a year ago, trimming export revenue by a quarter to $578 million even as prices climbed 4.2% to $1,894/oz from $1,817/oz, the bank said.
+A:Title:Peru Gold Exports;X-Axis:Jan-23;Y-Axis: 305,400 Ozs
+
+Q:Peru January 2023 Gold exports plunged. Silver dropped 22% to 300,000 oz.
+A:Title:Peru Silver Exports;X-Axis:Jan-23;Y-Axis: 300,000 Ozs
+
+Q:Peru January 2023 Zinc exports fell 10.6% to 73,900 mt, slashing export revenue by a fifth to $167 million,
+A:Title:Peru Zinc Exports;X-Axis:Jan-23;Y-Axis: 73,900 Tonnes
+
+Q:Peru January 2023 lead exports was down 8% to 42,800 mt with revenue slipping 8% to $103 million, Prices fell for both metals.
+A:Title:Peru Lead Exports;X-Axis:Jan-23;Y-Axis: 42,800 Tonnes
+
+
+Q:Peru Copper January 2023 shipments fell 20.3% to 153,200 mt from 192,100 mt a year earlier, while prices slid 6% to $3.69/lb from 3.93/lb, cutting export revenue by a quarter to $1.25 billion, the central bank said in a statement posted on its website
+A:Title:Peru Copper Shipments;X-Axis:Jan-23;Y-Axis: 153,200 Tonnes
+
+Q:Platts, part of S&P Global, assessed Chinese copper import premiums at $45/mt plus London Metal Exchange cash, CIF China, March 21, for LME-registered normal brands of electrolytically-refined cathode, up $20/mt on the month.
+A:Title:China Copper Cathodes Import Premium for LME registered Normal ER BRANDS [Source: Platts];X-Axis:21-Mar-23;Y-Axis: $45/Mt
+
+Q:Cobre Panama achieved record copper production of 331kt for the full year, 125kt more than 2020. Despite facing COVID-19 preventative restrictions for over three quarters of the year, Cobre Panama’s performance was strong, exceeding initial 2021 guidance announced in January 2021 and delivering its first full year of uninterrupted production since announcing commercial production on September 1, 2019.
+A:Title:Cobre Panama Copper Production;X-Axis:350,438 Tonnes;Y-Axis: 2021
+
+Q:Caixin/S&P's composite PMI, which includes both manufacturing and services activity, rose to 54.2 in February from 51.1 a month earlier, marking the quickest expansion since June.
+A:Title:Caixin/S&P's composite PMI;X-Axis:51.1, 54.2;Y-Axis: Februrary
+
+Q:The Caixin/S&P Global services purchasing managers' index (PMI) rose to 55.0 in February from 52.9 in January, a back-to-back monthly increase in activity after the government abruptly dismantled anti-virus measures in December
+A:Title:Caixin/S&P Global services purchasing managers' index (PMI);X-Axis:55.0, 52.9;Y-Axis: February, January, December
+
+Q:Chile produced 435,939 mt of copper in January, up 1.3% from the same month of 2021, government data showed Feb. 28.
+A:Title:Chile Copper Production;X-Axis:435,939 mt, 1.3%;Y-Axis: January, Feb. 28
+
+Q:The metal is a key by-product in many copper mines in Chile.Gold production fell 13% to 2,111 kilograms while silver production fell 14% to 82,284 kg.
+A:Title:Chile Silver Production;X-Axis:82,284 Kg;Y-Axis: 
+
+Q:Chile Gold production fell 13% to 2,111 kilograms while silver production fell 14% to 82,284 kg.
+A:Title:Chile Gold Production;X-Axis:2,111 Kilograms;Y-Axis: 
+
+Q:Chile Molybdenum production rose 15% on the year to 3,772 mt. 
+A:Title:Chile Molybdenum Production;X-Axis:3,772 mt;Y-Axis: 
+
+Q:Japan imported 1.9 million tonnes of LNG from Oman in 2021, 2.6% of its total LNG imports.
+A:Title:Japan LNG Imports From Oman;X-Axis:1.9 Million Tonnes;Y-Axis: 2021
+
+Q:Contemporary Amperex Technology (CATL), based in east China’s Fujian province, retained its position as the world’s largest EV battery producer, according to Seoul-based SNE Research.CATL installed 165.7 gigawatt hours (GWh) of battery cells from January to November in 2022, 101.8 per cent more than the same period a year earlier, according to the research and consulting services provider. The company’s global market share rose from 32.8 per cent at the end of 2021 to 37.1 per cent.
+A:Title:CATL Battery Cells Installed;X-Axis:165.7 Gigawatt hours (GWh);Y-Axis: January to November 2022
+
+Q:
+A:Title:CATL Battery Cells Global Market Share;X-Axis:32.8 per cent;Y-Axis: January to November 2022
+
+Q:Sales of pure electric and plug-in hybrid cars in China are likely to have topped 6.4 million units in 2022, more than double the 2.99 million units recorded a year earlier, according to estimates from the China Passenger Car Association.
+A:Title:China Electric And Plug-in Hybrid Cars Sales;X-Axis:6.4 Million Units;Y-Axis: 2022
+
+Q:
+A:Title:China Electric And Plug-in Hybrid Cars Sales;X-Axis:2.99 Million Units;Y-Axis: a Year Earlier
+
+Q:Peru Copper output in November 2022 climbed 3.4% to 224,976 mt from 195,117 mt a year earlier on the startup of Anglo American's $5.3 billion Quellaveco mine and gains at mines operated by Freeport-McMoRan, Antamina and Southern Copper, the Energy & Mines Ministry said in a statement
+A:Title:Peru Copper Production;X-Axis:195,117 mt;Y-Axis: Nov-22
+
+Q:Chile QUARTERLY Q4 2022 exports of refined copper to China, the world's largest consumer of copper, rose 15.7% to 312,327 mt, however, offsetting a  19% drop in exports to South Korea to 49,654 mt.
+A:Title:Chile Refined Copper Exports to South Korea;X-Axis:49,654 mt;Y-Axis: Q4 2022
+
+Q:Chile QUARTERLY Q4 2022 exports of refined copper to China, the world's largest consumer of copper, rose 15.7% to 312,327 mt, however, offsetting a 61% fall in exports to the US to 63,948.
+A:Title:Chile Refined Copper Exports to USA;X-Axis:63,948 mt;Y-Axis: Q4 2022
+
+Q:Chile QUARTERLY Q4 2022 exports of refined copper to China, the world's largest consumer of copper, rose 15.7% to 312,327 mt
+A:Title:Chile Refined Copper Exports To China;X-Axis:312,327 mt;Y-Axis: Q4 2022
+
+Q:Chile Q4 2022 Exports of copper concentrates reached 2.838 million mt (total weight), down 6.8% from 12 months earlier, including a 2.6% drop in December to 920,117 mt.An 11.1% drop in exports to China in Q4 (to 2.014 million mt) was offset by a 48.1% increase in exports to Japan (to 490,463 mt).
+A:Title:Chile Copper Concentrates Exports To Japan;X-Axis:490,463 mt;Y-Axis: Q4 2022
+
+Q:Chile Q4 2022 Exports of copper concentrates reached 2.838 million mt (total weight), down 6.8% from 12 months earlier, including a 2.6% drop in December to 920,117 mt.An 11.1% drop in exports to China in Q4 (to 2.014 million mt)
+A:Title:Chile Copper Concentrates Exports To China;X-Axis:2.014 million mt;Y-Axis: Q4 2022
+
+Q:Chile Q4 2022 Exports of copper concentrates reached 2.838 million mt (total weight), down 6.8% from 12 months earlier, including a 2.6% drop in December to 920,117 mt.
+A:Title:Chile Copper Concentrates Exports;X-Axis:920,117 mt;Y-Axis: Dec-22
+
+Q:Chile Q4 2022 Exports of copper concentrates reached 2.838 million mt (total weight), down 6.8% from 12 months earlier, including a 2.6% drop in December to 920,117 mt.An 11.1% drop in exports to China in Q4 (to 2.014 million mt) was offset by a 48.1% increase in exports to Japan (to 490,463 mt).
+A:Title:Chile Copper Concentrates Exports;X-Axis:2.838 miliion mt;Y-Axis: Q4 2022
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index (CPI), stood at +1.0% in January 2021, following a 0.3% decrease in December 2020.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:0.01;Y-Axis: Jan-21
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index, stood at +1.3% in February 2021.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:0.013;Y-Axis: Feb-21
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index, stood at +1.7% in March 2021.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:0.017;Y-Axis: Mar-21
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index, stood at +3.9% in August 2021.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:0.039;Y-Axis: Aug-21
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index, stood at +4.1% in September 2021.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:0.041;Y-Axis: Sep-21
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index (CPI), stood at +4.5% in October 2021.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:0.045;Y-Axis: Oct-21
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index (CPI), stood at +5.2% in November 2021.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:0.052;Y-Axis: Nov-21
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index, stood at +5.3% in December 2021.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:0.053;Y-Axis: Dec-21
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index (CPI), stood at +5.1% in February 2022, thus remaining at a high level. In January 2022, it had been +4.9%.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:0.049;Y-Axis: Jan-22
+
+Q:The inflation rate in Germany, measured as the year-on-year change in the consumer price index (CPI), stood at +5.1% in February 2022, thus remaining at a high level. In January 2022, it had been +4.9%.
+A:Title:Germany Inflation Growth Rate (year-on-year);X-Axis:5.1;Y-Axis: Feb-22
+
+Q:2022 Output from KGHM International dropped 21.6% year on year to 56,200 mt and was mainly thanks to the suspension of production in April and subsequent sale of the Franke mine in Antofagasta, Chile, which cut output by 8,000 mt and the 6,800 mt lower production at the Robinson mine in Nevada.The losses were not offset by higher production at KGHM Polska Miedz, which rose 1.5% to 586,000 mt.
+A:Title:KGHM Polska Miedz Payable Copper Production;X-Axis:586,000 Tonnes;Y-Axis: 2022
+
+Q:KGHM - The Warsaw-listed company – the seventh largest copper producer globally – said its 2022 production of molybdenum, the principal by-product at the Sierra Gorda mine, slumped 64% year on year to 3 million lb and was due mining in areas with substantially lower content of the metal, as well as the deterioration in the recovery of molybdenum during the processing phase.
+A:Title:KGHM Molybdenum Production;X-Axis:3 Million Pounds;Y-Axis: 2022
